@@ -1,0 +1,5 @@
+﻿  operator_overloading.cpp
+  Run_time_polymorphism.cpp
+  Generating Code...
+D:\Workspace\projects\My_project\Run_time_polymorphism\operator_overloading.cpp(28): warning C4172: returning address of local variable or temporary: out
+  Run_time_polymorphism.vcxproj -> D:\Workspace\projects\My_project\Run_time_polymorphism\Debug\Run_time_polymorphism.exe
